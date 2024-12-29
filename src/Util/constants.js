@@ -1,10 +1,6 @@
 import calculator from "../assets/calculator.png";
-
-
 import weather from "../assets/weather.png";
-
 import portfolio from "../assets/portfolio.png"
-
 import zomato from "../assets/zomato.png"
 
 export const projects = [
