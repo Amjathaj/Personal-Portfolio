@@ -21,8 +21,8 @@ export const projects = [
       "Implemented smooth navigation using React Router, enabling seamless transitions between sections of the portfolio."
     ],
     techStack: ["React JS"],
-    "github": "https://github.com/Amjathaj/zomato",
-    "liveLink": "https://amjathaj.github.io/zomato/"
+    "github": "https://github.com/Amjathaj/Personal-Portfolio",
+    "liveLink": "https://personal-portfolio-psi-navy-11.vercel.app/"
   }, 
  
   {
